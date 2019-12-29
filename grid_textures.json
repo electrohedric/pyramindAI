@@ -1,0 +1,8 @@
+{
+  ".": "imgs/land.png",
+  "w": "imgs/white_spawn.png",
+  "#": "imgs/water.png",
+  "W": "imgs/white_goal.png",
+  "b": "imgs/black_spawn.png",
+  "B": "imgs/black_goal.png"
+}

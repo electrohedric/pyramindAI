@@ -1,0 +1,8 @@
+{
+  "mason": "imgs/mason_black.png",
+  "soldier": "imgs/soldier_black.png",
+  "chariot": "imgs/chariot_black.png",
+  "spearman": "imgs/spearman_black.png",
+  "hawk": "imgs/hawk_black.png",
+  "masonchariot": "imgs/masonchariot_black.png"
+}
